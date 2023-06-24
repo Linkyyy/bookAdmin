@@ -1,6 +1,6 @@
 # book_admin
 
-> vue+elementPlus
+> vue+elementui-Plus 
 
 ## Project setup
 ```
