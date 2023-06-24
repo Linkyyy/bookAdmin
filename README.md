@@ -1,5 +1,7 @@
 # book_admin
 
+> vue+elementPlus
+
 ## Project setup
 ```
 npm install
